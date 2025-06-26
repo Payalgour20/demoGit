@@ -1,2 +1,2 @@
 # demoGit
-This repository is for learning the gitHub
+This repository is for learning the gitHub.
